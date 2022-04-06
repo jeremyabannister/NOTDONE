@@ -22,7 +22,7 @@ let package = Package(
             name: "NOTDONE",
             dependencies: []),
         .testTarget(
-            name: "NOTDONETests",
+            name: "NOTDONE-tests",
             dependencies: ["NOTDONE"]),
     ]
 )
